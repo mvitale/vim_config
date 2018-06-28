@@ -25,3 +25,6 @@
 [submodule ".vim/bundle/scss-syntax.vim"]
 	path = .vim/bundle/scss-syntax.vim
 	url = git@github.com:cakebaker/scss-syntax.vim.git
+[submodule ".vim/bundle/vim-javascript"]
+	path = .vim/bundle/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
