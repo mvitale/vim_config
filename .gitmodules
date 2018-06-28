@@ -1,3 +1,6 @@
 [submodule ".vim/bundle/gruvbox"]
 	path = .vim/bundle/gruvbox
 	url = git@github.com:morhetz/gruvbox.git
+[submodule ".vim/bundle/vim-node"]
+	path = .vim/bundle/vim-node
+	url = git@github.com:moll/vim-node.git
